@@ -1,0 +1,8 @@
+.button {
+  display: flex;
+  background: #0eadaf;
+  cursor: pointer;
+  padding: 7px 7px;
+  width: 35px;
+  height: 35px;
+}
